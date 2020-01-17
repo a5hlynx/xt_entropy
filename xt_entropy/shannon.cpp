@@ -15,7 +15,7 @@
 	You should have received a copy of the GNU Affero General Public License
 	along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-	XT_ functions starting in this program were implemented referring to
+	XT_ functions in this program were implemented referring to
 	the X-Tension below.
 	- Griffeye XML export X-Tension for X-Ways Forensics
 	- Copyright (C) 2019 R. Yushaev
