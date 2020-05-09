@@ -36,7 +36,7 @@
 #define VER_BUF_LEN 10
 
 int xwf_version = 0;
-const wchar_t* XT_VER = L"XT_ENTROPY - v1.0.0";
+const wchar_t* XT_VER = L"XT_ENTROPY - v1.0.1";
 
 WCHAR case_name[NAME_BUF_LEN] = { 0 };
 wchar_t msg[MSG_BUF_LEN];
@@ -144,7 +144,7 @@ LONG __stdcall XT_Init(CallerInfo info, DWORD nFlags, HANDLE hMainWnd, void* lpR
 
 	current_volume = (XtVolume*)calloc(1, sizeof(struct XtVolume));
 	first_volume = current_volume;
-	return 0;
+	return 1;
 }
 
 ///////////////////////////////////////////////////////////////////////////////

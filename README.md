@@ -1,6 +1,6 @@
 # Shannon Entropy X-Tension
 
-A X-Tension for X-Ways Forensics, which calculates Shannon Entropy for each item.
+An X-Tension for X-Ways Forensics, which calculates Shannon Entropy for each item.
 
 ## Build
 
